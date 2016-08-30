@@ -1,0 +1,19 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "psjyothiprasad <psjyothiprasad@gmail.com>"
+  ],
+  "description": "conFusion",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "conFusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
